@@ -83,7 +83,7 @@ out_prncp;Remaining outstanding principal for total amount funded
 out_prncp_inv;Remaining outstanding principal for portion of total amount funded by investors 
 pct_tl_nvr_dlq;Percent of trades never delinquent 
 percent_bc_gt_75;Percentage of all bankcard accounts > 75% of limit. 
-policy_code;"publicly available policy_code=1
+policy_code;publicly available policy_code=1
 new products not publicly available policy_code=2" 
 pub_rec;Number of derogatory public records 
 pub_rec_bankruptcies;Number of public record bankruptcies 
