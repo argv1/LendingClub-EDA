@@ -1,4 +1,4 @@
-![logo](https://github.com/argv1/LendingClub-EDA/images/lendingclub.jpg)
+![logo](https://github.com/argv1/LendingClub-EDA/blob/master/images/lendingclub.jpg)
 ## LendingClub.com EDA
 ======================
 
